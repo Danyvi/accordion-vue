@@ -1,4 +1,4 @@
-# accordion-list
+# accordion-list (from https://github.com/TylerPottsDev/Vuecordion)
 
 ## Project setup
 ```
